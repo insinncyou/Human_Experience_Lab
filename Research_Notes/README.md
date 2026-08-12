@@ -26,5 +26,13 @@ Human Experience Labの訓練から得た、再利用可能な観察・仮説・
 - スクリーンショットだけの収集
 - 文脈のない「ベストプラクティス」
 
-新規ノートには `templates/RESEARCH_NOTE_TEMPLATE.md` を使用してください。
+新規ノートには `Templates/RESEARCH_NOTE_TEMPLATE.md` を使用してください。Experience Critiqueのノートには `Templates/EXPERIENCE_CRITIQUE_RESEARCH_NOTE_TEMPLATE.md` を使用してください。
 
+## Experience Critiqueの保存前チェック
+
+- Observation、Reported、Interpretation、Hypothesis、既知知識を分離したか
+- 仮説ごとに根拠状態、代替説明、次の検証方法を残したか
+- Principleに適用条件、例外、トレードオフ、検証状態を含めたか
+- `Research_Notes/`を主要語・対象・期待する結果で検索し、重複・矛盾・接続候補を `Knowledge connections` に記録したか
+
+重複や矛盾は削除せず、条件・根拠・検証状態の違いとして残す。単発事例のPrincipleは原則として `Draft` にする。
