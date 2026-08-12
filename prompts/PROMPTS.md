@@ -116,3 +116,28 @@
 [セッション内容]
 ```
 
+## 14. Experience Critiqueを開始する
+
+```text
+Experience Critiqueを[15 / 30 / 60]分で開始してください。
+題材は[UI / プロダクト / サービス / 空間 / 接客 / 広告 / AI対話]の[対象]です。
+扱う場面は[誰が、いつ、どこで、何をしようとしているか]です。
+
+AIは研究コーチとして、一度に一つだけ質問してください。答えや改善案を先に提示せず、Observation → Interpretation → Critical Questioning → Hypothesis → Human Psychology / Behavior → Experience Judgment → Generalizationの順に、必要な段階だけ進めてください。
+事実、当事者の発言、解釈、仮説、既知知識を明確に区別し、各仮説には代替説明と検証方法を求めてください。
+最後に、能力別フィードバック、Draft Experience Principle、既存Research Notesとの重複・矛盾・接続候補を含むResearch Noteを作ってください。
+```
+
+## 15. Experience CritiqueをResearch Noteへ保存する
+
+```text
+以下のExperience Critiqueセッションを、Templates/EXPERIENCE_CRITIQUE_RESEARCH_NOTE_TEMPLATE.mdに従ってResearch Noteへ整理してください。
+
+- 曖昧な内容を補完せず、Observation / Reported / Interpretation / Hypothesis / Known knowledgeを分離する
+- 仮説ごとにEvidence status、Confidence、Alternative explanation、How to test or falsifyを残す
+- Experience Principleには適用条件、例外、トレードオフ、検証状態を付ける
+- Research_Notes/を検索して、重複・補強・限定・矛盾候補をKnowledge connectionsへ記録する
+- 新規ファイルはResearch_Notes/YYYY-MM-DD-short-topic.mdとして保存する
+
+[セッション内容]
+```

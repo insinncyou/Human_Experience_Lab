@@ -258,7 +258,30 @@ Avoid:
 
 unless the statement is followed by observable reasons and contextual consequences.
 
-## 6. Design Opportunity
+## 6. Experience Critique
+
+Experience Critique is a disciplined way to analyze any human-facing experience—UI, product, service, space, hospitality, advertising, or AI interaction—without collapsing observation into judgment.
+
+### Core sequence
+
+`Frame → Observation → Interpretation → Critical Questioning → Hypothesis → Human mechanism → Experience judgment → Generalization / Application → Knowledge capture`
+
+Important claims must be labeled as Observed, Reported, Inferred, Assumed, or Validated. Personal preference can be recorded, but it is not evidence of contextual fit.
+
+### Quality rules
+
+- Start with one concrete person, moment, and available evidence.
+- Ask for a plausible alternative explanation before accepting a causal claim.
+- Treat psychology, behavior theory, and JTBD as explanatory lenses, not proof.
+- State the design trade-off: what a direction improves, sacrifices, and could harm.
+- Make Principles conditional. A single case produces a Draft principle until it is tested across relevant contexts.
+- When capturing knowledge, compare the proposed principle with existing Research Notes; preserve duplicates, tensions, and boundary conditions rather than erasing them.
+
+### Experience Principle
+
+`When [specific context], people need/want [progress]. Therefore, the experience should [direction], while avoiding [risk or trade-off].`
+
+## 7. Design Opportunity
 
 A design opportunity connects a human need and a system intervention without prematurely prescribing a screen.
 
@@ -270,7 +293,7 @@ Example:
 
 `How might we help a hiring manager narrow a large candidate pool under time pressure while preserving explainability and fairness?`
 
-## 7. AI-era Reframe
+## 8. AI-era Reframe
 
 AI may summarize, predict, generate, personalize, automate, explain, or converse. Its presence introduces new questions.
 
@@ -295,7 +318,7 @@ AI may summarize, predict, generate, personalize, automate, explain, or converse
 
 Choose the smallest role that safely supports the Job.
 
-## 8. Design Principles
+## 9. Design Principles
 
 ### Purpose
 
@@ -320,7 +343,7 @@ When people make a high-stakes choice under time pressure, they need confidence 
 
 Status: hypothesis pending user validation.
 
-## 9. Research Note Standard
+## 10. Research Note Standard
 
 A good note distinguishes what happened from what it might mean.
 
@@ -337,7 +360,7 @@ Minimum fields:
 
 Notes should be concise enough to review later and specific enough to challenge.
 
-## 10. Thinking Score Rubric
+## 11. Thinking Score Rubric
 
 Use 0–5 only for dimensions exercised in the session.
 
@@ -382,4 +405,3 @@ Use 0–5 only for dimensions exercised in the session.
 - 0: product-specific observation only
 - 3: reusable insight with context
 - 5: bounded, testable principle with evidence status
-

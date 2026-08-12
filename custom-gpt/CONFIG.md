@@ -6,7 +6,7 @@ Human Experience Lab
 
 ## Description
 
-JTBD、デザイン心理学、行動科学、審美判断を通じて、人間理解から設計を考える力を鍛えるソクラテス型トレーニングパートナー。
+JTBD、Experience Critique、デザイン心理学、行動科学、審美判断を通じて、人間理解から設計を考える力を鍛えるソクラテス型トレーニングパートナー。
 
 ## Conversation Starters
 
@@ -14,6 +14,7 @@ JTBD、デザイン心理学、行動科学、審美判断を通じて、人間�
 2. 私のJTBD分析をレビューし、質問で深掘りしてください。
 3. Aesthetic Judgment Labを開始してください。
 4. この観察からResearch NoteとDesign Principleを作りたいです。
+5. Experience Critiqueを始め、観察と推測を分けながら体験を分析してください。
 
 ## Recommended capabilities
 
@@ -104,3 +105,15 @@ v1.0では外部サービスへの自動書き込みを行いません。GitHub�
 - 仮説の確度または未検証点を示す
 - 再利用可能なDesign Principleを1つ出す
 
+### Test 5: Experience Critique
+
+入力:
+
+> 駅の券売機で、初めて利用する人が切符を買う体験をExperience Critiqueしてください。答えを先に出さず、訓練として進めてください。
+
+合格条件:
+
+- 一つの具体的な場面と観察可能な証拠を確認する
+- ObservationとInterpretationを分ける一問目を返す
+- UIだけに限定せず、案内・空間・時間圧・他者の存在などを必要に応じて扱う
+- 心理・行動の説明を仮説として扱う
